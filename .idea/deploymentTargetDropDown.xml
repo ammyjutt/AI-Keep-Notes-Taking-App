@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="deploymentTargetDropDown">
+    <value>
+      <entry key="BottomBarPreview">
+        <State />
+      </entry>
+      <entry key="EditNoteScreenPreview">
+        <State />
+      </entry>
+      <entry key="EditNoteScreenPreview (1)">
+        <State />
+      </entry>
+      <entry key="NoteCardPreview">
+        <State />
+      </entry>
+      <entry key="app">
+        <State>
+          <targetSelectedWithDropDown>
+            <Target>
+              <type value="QUICK_BOOT_TARGET" />
+              <deviceKey>
+                <Key>
+                  <type value="VIRTUAL_DEVICE_PATH" />
+                  <value value="$USER_HOME$/.android/avd/Resizable_Experimental_API_33_2.avd" />
+                </Key>
+              </deviceKey>
+            </Target>
+          </targetSelectedWithDropDown>
+          <timeTargetWasSelectedWithDropDown value="2024-03-20T16:05:18.553108Z" />
+        </State>
+      </entry>
+    </value>
+  </component>
+</project>
