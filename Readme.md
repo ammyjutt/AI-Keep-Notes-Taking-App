@@ -19,9 +19,9 @@ I used the RAG (Retrieval Augmented Generation) technique to append the relevant
   <img src="resources/chat.jpg" alt="Assistant Screen" width="200"/>
 </div>
 
-### Rich Text Editing Features
+[### Rich Text Editing Features
 User can style the texts with a variety of options such as bold, highlight, italic, font size, etc.
 
 <div align="center">
   <img src="resources/edit.jpg" alt="Rich Text Editing" width="200"/>
-</div>
+</div>](url)
